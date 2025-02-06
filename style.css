@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.container {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: chartreuse;
+    text-decoration: none;
+    background-color: grey;
+    
+}
+
+h1 {
+    font-size: 76px;
+    color: blueviolet;
+    font-weight: normal;
+}
+
+.city-wrapper {
+    padding: 40px;
+    padding-left: 120px;
+    margin-bottom: 50px;
+    background-color: blue;
+}
